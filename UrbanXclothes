@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>UrbanXClothes</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #111;
+      color: white;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #1a1a1a;
+      padding: 30px;
+      text-align: center;
+    }
+    header h1 {
+      font-size: 3em;
+      margin: 0;
+      letter-spacing: 2px;
+    }
+    header p {
+      font-style: italic;
+      color: #e63946;
+      margin-top: 5px;
+    }
+    main {
+      padding: 30px;
+    }
+    section {
+      margin-bottom: 40px;
+    }
+    h2 {
+      border-bottom: 2px solid #e63946;
+      padding-bottom: 5px;
+    }
+    footer {
+      background-color: #1a1a1a;
+      text-align: center;
+      padding: 20px;
+      font-size: 0.9em;
+      color: #aaa;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>UrbanXClothes</h1>
+    <p>Estilo urbano para cada día</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>Sobre Nosotros</h2>
+      <p>UrbanXClothes nace de la cultura callejera y el diseño independiente. Nuestra ropa refleja actitud, comodidad y autenticidad.</p>
+    </section>
+    <section>
+      <h2>Catálogo</h2>
+      <p>Próximamente disponible: camisetas, hoodies, gorras y más. ¡Mantente al tanto!</p>
+    </section>
+    <section>
+      <h2>Contacto</h2>
+      <p>Escríbenos a <a href="mailto:contacto@urbanxclothes.com" style="color: #e63946;">contacto@urbanxclothes.com</a></p>
+    </section>
+  </main>
+
+  <footer>
+    &copy; 2025 UrbanXClothes. Todos los derechos reservados.
+  </footer>
+</body>
+</html>
